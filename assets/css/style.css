@@ -4,3 +4,8 @@ body {
     background-attachment: fixed;
     background-size: 100%;
 }
+#container {
+    border: solid #fff 1rem;
+    width: 75%;
+    align-content: center;
+}
